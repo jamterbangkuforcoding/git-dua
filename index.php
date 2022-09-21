@@ -12,6 +12,8 @@
     <h1>daftar guru</h1>
     <ul>
         <li>irfan</li>
+        <li>miftah</li>
+        <li>ihsan</li>
     </ul>
 </body>
 
