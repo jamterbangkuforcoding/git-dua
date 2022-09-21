@@ -9,7 +9,10 @@
 </head>
 
 <body>
-
+    <h1>daftar guru</h1>
+    <ul>
+        <li>irfan</li>
+    </ul>
 </body>
 
 </html>
